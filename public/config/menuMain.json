@@ -1,0 +1,73 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "resolucion_5261",
+    "title": "1. Resolución 5261 de 1994, Establece el Manual de Actividades, Intervenciones y Procedimientos del Plan Obligatorio de Salud en el Sistema General de Seguridad Social en Salud",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "resolucion_537",
+    "title": "2. Resolución 537 de 2020 y sus anexos. Se modifica la resolución 3495 de 2019 clasificación única de procedimientos en salud-CUPS",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "resolucion_1531",
+    "title": "3. Resolución 1531 de 2014 modifica a la Resolución 3347 de 2000. Reglamentan los datos básicos que deben reportar los prestadores de servicios de salud y las entidades administradoras de planes de beneficios sobre los servicios de salud prestados",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "medicoquirurguica",
+    "title": "4. Terminología medicoquirúrguica",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/4-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "cie",
+    "title": "5.  Códigos CIE 10",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/5-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "sistemas_de_incentivos",
+    "title": "6.  El sistema de incentivos como herramienta para el mejoramiento de la productividad empresarial",
+    "breadcrumb": ["Inicio","tema 6"],
+    "path": "pages/6-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "redes_integrales",
+    "title": "7.  Redes Integrales de prestadores de servicios de salud Lineamientos para el Proceso de Conformación, Organización, Gestión, Seguimiento y Evaluación",
+    "breadcrumb": ["Inicio","tema 7"],
+    "path": "pages/7-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "rutas_integrales",
+    "title": "8.  Rutas integrales de atención en salud – RIAS",
+    "breadcrumb": ["Inicio","tema 8"],
+    "path": "pages/8-tema.html"
+  }
+  
+]
